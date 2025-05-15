@@ -11,8 +11,8 @@
     "phoneNumber": "+91-9528391901",
     "contactEmail": "yashtashildar6899@gmail.com",
     "avatar": {
-      "public_id": "portfolio3/1713995155677-122l5x.webp",
-      "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713995155677-122l5x.webp"
+      "public_id": "dexter-portfolio/blob/main/public/portfolio_avatar.jpg",
+      "url": "https://github.com/dexterr6899/dexter-portfolio/blob/main/public/portfolio_avatar.jpg"
     },
     "alternateAvatars": [
       {
@@ -28,30 +28,31 @@
   },
   "_id": "65b3a22c01d900e96c4219ae",
   "username": "portfolio3",
-  "email": "work.tehseen@gmail.com",
+  "email": "yashtashildar6899@gmail.com",
   "role": "admin",
   "timeline": [
     {
       "company_name": "Interface Infosoft Solutions pvt. ltd.",
       "summary": "Contributed to the development of a new social networking platform targeting niche communities.",
       "sequence": 6,
-      "startDate": "2023-11-13T00:00:00.000Z",
-      "endDate": "2024-03-13T00:00:00.000Z",
+      "startDate": "2021-07-21T00:00:00.000Z",
+      "endDate": "2024-03-19T00:00:00.000Z",
       "jobTitle": "Backend Developer",
-      "jobLocation": " Los Angeles, CA",
+      "jobLocation": " Pune, MH, India",
       "bulletPoints": [
-        "Developed scalable backend services using Python and Django framework.",
+        " Developed a high-performance backend system using java, spring boot and JPA. Delivering RESTful scalable APIs to support various business operations across platform.",
         "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
         "\nDesigned and optimized database schemas for performance and scalability.",
-        "\nImplemented real-time messaging features using WebSockets and Redis.",
+        "\nDesigned & developed V3 APIs for external user Authentication and Authorization using OAuth 2.0 & JWT to enable smooth integration with 3rd party software. ",
+        "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
         "\nWorked closely with frontend developers to design APIs and ensure smooth integration with the frontend."
       ],
-      "forEducation": true,
+      "forEducation": false,
       "enabled": true,
       "_id": "65f1fe900556c3f887e9db94"
     },
     {
-      "company_name": "CloudTech Innovations",
+      "company_name": "Weddings by Pixelite",
       "summary": "Contributed to the development of a cloud-based SaaS platform for managing IT infrastructure.",
       "sequence": 4,
       "startDate": "2024-03-06T00:00:00.000Z",
@@ -59,9 +60,9 @@
       "jobTitle": "Software Developer",
       "jobLocation": "Austin, TX",
       "bulletPoints": [
-        "Developed microservices using Node.js and deployed them using Docker containers.",
+        "Developed custom web and backend solutions for a photography domain.",
         "\nImplemented user authentication and authorization using OAuth 2.0 and JWT tokens.",
-        "\nIntegrated with cloud providers such as AWS and Azure to manage infrastructure resources.",
+        "\n",
         "\nDesigned and implemented RESTful APIs for various platform features.",
         "\nCollaborated with DevOps engineers to automate deployment and testing processes."
       ],
@@ -70,7 +71,7 @@
       "_id": "65f1fe4e0556c3f887e9db22"
     },
     {
-      "company_name": "Digital Solutions Co.",
+      "company_name": "Creation Interio",
       "summary": "Contributed to the development of a comprehensive CRM solution for enterprise clients.",
       "sequence": 3,
       "startDate": "2023-10-11T00:00:00.000Z",
@@ -156,7 +157,7 @@
   "skills": [
     {
       "enabled": true,
-      "name": "C++",
+      "name": "Java",
       "sequence": 17,
       "percentage": 87,
       "image": {
@@ -168,7 +169,7 @@
     },
     {
       "enabled": true,
-      "name": "Python",
+      "name": "Javascript",
       "sequence": 16,
       "percentage": 86,
       "image": {
@@ -216,7 +217,7 @@
     },
     {
       "enabled": true,
-      "name": "Node.js",
+      "name": "System Design",
       "sequence": 7,
       "percentage": 92,
       "image": {
@@ -228,7 +229,7 @@
     },
     {
       "enabled": true,
-      "name": "MongoDB",
+      "name": "Jenkins",
       "sequence": 13,
       "percentage": 70,
       "image": {
@@ -240,7 +241,7 @@
     },
     {
       "enabled": true,
-      "name": "Three.js",
+      "name": "MySQL",
       "sequence": 9,
       "percentage": 70,
       "image": {
@@ -252,7 +253,7 @@
     },
     {
       "enabled": true,
-      "name": "Redux",
+      "name": "Spring-Boot",
       "sequence": 7,
       "percentage": 95,
       "image": {
@@ -264,7 +265,7 @@
     },
     {
       "enabled": true,
-      "name": "Javascript",
+      "name": "Microservices",
       "sequence": 3,
       "percentage": 95,
       "image": {
@@ -300,7 +301,7 @@
     },
     {
       "enabled": true,
-      "name": "Sass",
+      "name": "Maven",
       "sequence": 10,
       "percentage": 95,
       "image": {
@@ -312,7 +313,7 @@
     },
     {
       "enabled": true,
-      "name": "GraphQl",
+      "name": "REST API",
       "sequence": 9,
       "percentage": 80,
       "image": {
@@ -408,160 +409,6 @@
     {
       "liveurl": "#",
       "githuburl": "#",
-      "title": "Project 14",
-      "sequence": 14,
-      "image": {
-        "public_id": "1706285511679-xe7r9t",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285511679-xe7r9t"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d9c8d017f6b49c778ca7",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 14",
-      "sequence": 15,
-      "image": {
-        "public_id": "1706285468702-igx05q",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285468702-igx05q"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d99dd017f6b49c778c86",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 13",
-      "sequence": 13,
-      "image": {
-        "public_id": "1706285431821-3lfg2r",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285431821-3lfg2r"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d978d017f6b49c778c67",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 12",
-      "sequence": 12,
-      "image": {
-        "public_id": "1706285416017-wra7swm",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285416017-wra7swm"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d969d017f6b49c778c4a",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 11",
-      "sequence": 11,
-      "image": {
-        "public_id": "1706285405228-98liol",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285405228-98liol"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d95dd017f6b49c778c2f",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 10",
-      "sequence": 10,
-      "image": {
-        "public_id": "1706285393568-zl9mcc",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285393568-zl9mcc"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs "],
-      "_id": "65b3d952d017f6b49c778c16",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 9",
-      "sequence": 9,
-      "image": {
-        "public_id": "1706285378965-91vbk",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285378965-91vbk"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d943d017f6b49c778bff",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 8",
-      "sequence": 8,
-      "image": {
-        "public_id": "1706285368529-zdr5fl",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285368529-zdr5fl"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs  ", " Mern ", " CSS"],
-      "_id": "65b3d938d017f6b49c778bea",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 7",
-      "sequence": 7,
-      "image": {
-        "public_id": "1706285357884-3ja6sw",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285357884-3ja6sw"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs   ", " CSS"],
-      "_id": "65b3d92ed017f6b49c778bd7",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 6",
-      "sequence": 6,
-      "image": {
-        "public_id": "1706285347449-dniw0h",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285347449-dniw0h"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": [" Nextjs ", " Mern ", " CSS"],
-      "_id": "65b3d923d017f6b49c778bc6",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
-      "title": "Project 5",
-      "sequence": 5,
-      "image": {
-        "public_id": "1706285323287-nt3ya3",
-        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285323287-nt3ya3"
-      },
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-      "techStack": ["Reactjs ", " Mern ", " CSS"],
-      "_id": "65b3d8fed017f6b49c778ba9",
-      "enabled": true
-    },
-    {
-      "liveurl": "#",
-      "githuburl": "#",
       "title": "Project 4",
       "sequence": 4,
       "image": {
@@ -619,7 +466,7 @@
   "social_handles": [
     {
       "platform": "Instagram",
-      "url": "https://www.instagram.com/tehseen.01/",
+      "url": "https://www.instagram.com/yashtashildar/",
       "image": {
         "public_id": "1708718250873-3038n7.webp",
         "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
@@ -629,7 +476,7 @@
     },
     {
       "platform": "LinkedIn",
-      "url": "http://www.linkedin.com/in/tehseen01",
+      "url": "http://www.linkedin.com/in/yash-tashildar",
       "image": {
         "public_id": "1708718263294-2lfj67.webp",
         "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
